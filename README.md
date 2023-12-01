@@ -16,7 +16,7 @@ f - enqueue false
 
  . - dequeue and output on a new line
 
-=<> - deque a and b, if a<cond>b is true enqueue true, else enqueue false
+=<> - dequeue a and b, if a<cond>b is true enqueue true, else enqueue false
 
 ; - dequeue integer and jump to the n-th : where n is the integer
 
