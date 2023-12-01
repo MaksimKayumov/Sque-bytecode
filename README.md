@@ -31,3 +31,5 @@ p - dequeue index and enqueue value of cell with that index
 \# - deque and output on the same line
 
 ~ - dequeue string and an integer, enqueue n-th letter of a string, where n is the integer
+
+& - dequeue and enqueue two times
