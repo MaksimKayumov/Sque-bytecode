@@ -1,7 +1,8 @@
 # Sque-bytecode
 Sque (Scratch QUEue) - Custom bytecode which uses Queue data structure and has interpreter in Scratch
 # Documentation
-Uses queue and tape. Tape indexes start at 0
+Uses queue and tape. Tape indexes start at 1
+
 "str" - enqueue string str
 
 '123' - enqueue integer 123
